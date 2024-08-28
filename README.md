@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java.. :Crying:
 - 💞️ I’m looking to collaborate on learning!
 - 📫 How to reach me info@cloudguardconsulting.com
-- ⚡ Fun fact: I like to work on cars as well. Current project is a H-Swapped 2000 Honda CR6.
+- ⚡ Fun fact: I like to work on cars as well. Current project is a H-Swapped 2000 Honda CB7 Accord.
 
 <!---
 NXSec/NXSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
